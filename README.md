@@ -1,0 +1,1 @@
+This repo contains blog stuff and abstracts of Electronics Club, CFI
